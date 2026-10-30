@@ -1,6 +1,6 @@
 # Laravel POS TFA6
 
-Repository: https://github.com/Angelowww11/TFA5_Laravel_POS
+Repository: https://github.com/Angelowww11/TFA6_Laravel_POS
 
 PHP 8.2+, Composer and SQLite are required. Run composer install, copy .env.example to .env, create database/database.sqlite, run php artisan key:generate and php artisan migrate --seed, then php artisan serve --port=8055.
 
